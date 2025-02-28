@@ -13,10 +13,8 @@ git clone <url_repositorio_remoto>
 
 ```bash 
 git add <arquivo1> <arquivo2> ... <arquivoN>
-```
 
 OU
-
 ```bash 
 git add . 
 ```
