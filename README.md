@@ -18,4 +18,12 @@ OU
 ```bash 
 git add . 
 ```
-./Des
+
+
+3. Fazendo commit 
+
+```bash 
+git commit -m "Mensagem" 
+```
+
+**Atenção!** Todo commit deve ter uma descrição (obrigatório)
